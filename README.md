@@ -28,8 +28,7 @@ Esta aplicação web permite que os fãs de Star Wars pesquisem por seus persona
 ### **Como usar**
 
 1. **Clonar o repositório:** Use o comando `git clone https://[seu-repositorio-github]` para clonar o projeto para sua máquina local.
-2. **Abrir os arquivos:** Abra os arquivos `index.html`, `style.css`, `dados.js` e `app.js` em um editor de código.
-3. **Iniciar um servidor local:** Utilize um servidor local (como o Live Server do Visual Studio Code) para visualizar a aplicação no seu navegador.
-4. **Realizar uma pesquisa:** Digite o nome de um personagem Star Wars no campo de pesquisa e pressione Enter.
+2. **Realizar uma pesquisa:** Digite o nome de um personagem Star Wars no campo de pesquisa e pressione Enter.
+3. https://star-wars-chi-dun.vercel.app/
 
 
